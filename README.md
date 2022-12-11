@@ -1,1 +1,22 @@
-# TFE_EICE2023
+# Epreuve Intégrée "Projet de site web e-commerce (utilisant Laravel) sur le vapotage"
+
+## Résumé :
+...
+
+## Auteur de l'Epreuve Intégrée :
+* Jordan Boisdenghien
+
+## Tuteur :
+* M F. Mahieu
+
+## Description de l'EI:
+Projet d'épreuve intégrée réalisée par Boisdenghien Jordan pour l'EICE au cours de l'année 2022-2023 (...)
+
+## Technologies utilisées :
+* Visual Studio Code
+* Composer 2.2.5
+* PHP 8.1
+* Laravel 9.x LTS
+
+## Pour plus d'informations :
+Vous pouvez vous rendre la page wiki de ce github pour plus d'informations concernant l'application :
