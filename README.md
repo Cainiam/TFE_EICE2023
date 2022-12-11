@@ -6,8 +6,8 @@
 ## Auteur de l'Epreuve Intégrée :
 * Jordan Boisdenghien
 
-## Tuteur :
-* M F. Mahieu
+## Chargé d'enseignement :
+* Monsieur F. Mahieu
 
 ## Description de l'EI:
 Projet d'épreuve intégrée réalisée par Boisdenghien Jordan pour l'EICE au cours de l'année 2022-2023 (...)
