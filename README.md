@@ -1,4 +1,4 @@
-# Epreuve Intégrée "Projet de site web e-commerce (utilisant Laravel) sur le vapotage"
+# Epreuve Intégrée "Projet de site web e-commerce (utilisant Laravel) sur "
 
 ## Résumé :
 ...
@@ -14,9 +14,10 @@ Projet d'épreuve intégrée réalisée par Boisdenghien Jordan pour l'EICE au c
 
 ## Technologies utilisées :
 * Visual Studio Code
+* Laravel 9.x LTS
 * Composer 2.2.5
 * PHP 8.1
-* Laravel 9.x LTS
+
 
 ## Pour plus d'informations :
 Vous pouvez vous rendre la page wiki de ce github pour plus d'informations concernant l'application :
