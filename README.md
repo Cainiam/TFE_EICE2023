@@ -20,4 +20,4 @@ Projet d'épreuve intégrée réalisée par Boisdenghien Jordan pour l'EICE au c
 
 
 ## Pour plus d'informations :
-Vous pouvez vous rendre la page wiki de ce github pour plus d'informations concernant l'application :
+Vous pouvez vous rendre la page wiki de ce github pour plus d'informations concernant l'application : [ici](https://github.com/Cainiam/TFE_EICE2023/wiki "Wiki du TFE 2023")
