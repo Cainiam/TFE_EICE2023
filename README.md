@@ -10,6 +10,7 @@
 * Monsieur F. Mahieu
 
 ## Description de l'EI:
+(Sujet en attente de validation)
 Projet d'épreuve intégrée réalisée par Boisdenghien Jordan pour l'EICE au cours de l'année 2022-2023 (...)
 
 ## Technologies utilisées :
